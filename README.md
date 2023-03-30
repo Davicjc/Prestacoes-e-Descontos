@@ -15,4 +15,4 @@ O código com a extensão .py pode ser visualizado para a verificação do códi
 
 Já o código com a extensão .exe não é possível visualizar o código fonte, pois ele já está compilado, mas ambos são equivalentes.
 
-## Obrigado pela sua visita!
+### Obrigado pela sua visita!
