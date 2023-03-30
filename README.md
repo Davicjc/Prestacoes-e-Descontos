@@ -1,11 +1,18 @@
-Criada a partir de pedidos do professor da faculdade
-primeira versão do código foi escrita em Portugol
-posteriormente foi convertida e refeita do zero por mim em 'PY'
-Criada com intuito de testar meus conhecimentos na linguagem
+Prestacoes-e-Descontos
+Este projeto foi criado a partir de pedidos do professor da faculdade e tem como objetivo testar meus conhecimentos em programação na linguagem Python.
 
-"O arquivo com o final .py exige o python instalado na máquina para executar"
-"O arquivo com o final .exe NÃO exige o python instalado na máquina para executar"
+A primeira versão do código foi escrita em Portugol e posteriormente refeita do zero por mim em Python.
 
-Caso o windows defender reclame indicando vírus é por conta do modo usado para fazer a compilação do código
-O codigo .py pode ser visualizado para a verificação do códigos, 
-O .exe nao da para verificar o codigo pois esta ja compilado, porem são a mesma coisa!
+Requisitos
+Para executar o arquivo com extensão .py é necessário ter o Python instalado na máquina.
+
+Já para executar o arquivo com extensão .exe não é necessário ter o Python instalado.
+
+Caso o Windows Defender reclame indicando vírus, isso pode acontecer por causa do modo usado para compilar o código em ".exe".
+
+Observações
+O código com a extensão .py pode ser visualizado para a verificação do código.
+
+Já o código com a extensão .exe não é possível visualizar o código fonte, pois ele já está compilado, mas ambos são equivalentes.
+
+Obrigado pela sua visita!
