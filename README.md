@@ -1,18 +1,18 @@
 # Prestacoes-e-Descontos
-Este projeto foi criado a partir de pedidos do professor da faculdade e tem como objetivo testar meus conhecimentos em programação na linguagem Python.
+Este projeto foi criado como resultado de pedidos do meu professor da faculdade e tem como objetivo demonstrar meus conhecimentos em programação na linguagem Python.
 
 A primeira versão do código foi escrita em Portugol e posteriormente refeita do zero por mim em Python.
 
-# Requisitos
-Para executar o arquivo com extensão .py é necessário ter o Python instalado na máquina.
+## Requisitos
+Para executar o arquivo com extensão .py, é necessário ter o Python instalado na máquina.
 
-Já para executar o arquivo com extensão .exe não é necessário ter o Python instalado.
+No entanto, para executar o arquivo com extensão .exe, não é necessário ter o Python instalado.
 
-Caso o Windows Defender reclame indicando vírus, isso pode acontecer por causa do modo usado para compilar o código em ".exe".
+Caso o Windows Defender reclame indicando a presença de vírus, isso pode acontecer devido ao método usado para compilar o código em ".exe".
 
-# Observações
-O código com a extensão .py pode ser visualizado para a verificação do código.
+## Observações
+O código com a extensão .py está disponível para visualização, possibilitando a verificação do código fonte.
 
-Já o código com a extensão .exe não é possível visualizar o código fonte, pois ele já está compilado, mas ambos são equivalentes.
+Por outro lado, o código com a extensão .exe não é possível visualizar o código fonte, pois ele já está compilado, mas ambos são equivalentes em funcionalidade.
 
-### Obrigado pela sua visita e acesse "Releases" para ver todas as versões ^-^
+## Agradeço por sua visita e convido você a acessar a seção "Releases" para verificar todas as versões disponíveis do projeto ^-^
